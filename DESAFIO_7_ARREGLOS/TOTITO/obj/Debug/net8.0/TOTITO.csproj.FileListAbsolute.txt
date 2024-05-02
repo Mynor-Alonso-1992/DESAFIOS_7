@@ -1,0 +1,14 @@
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_7_ARREGLOS\TOTITO\bin\Debug\net8.0\TOTITO.exe
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_7_ARREGLOS\TOTITO\bin\Debug\net8.0\TOTITO.deps.json
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_7_ARREGLOS\TOTITO\bin\Debug\net8.0\TOTITO.runtimeconfig.json
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_7_ARREGLOS\TOTITO\bin\Debug\net8.0\TOTITO.dll
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_7_ARREGLOS\TOTITO\bin\Debug\net8.0\TOTITO.pdb
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_7_ARREGLOS\TOTITO\obj\Debug\net8.0\TOTITO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_7_ARREGLOS\TOTITO\obj\Debug\net8.0\TOTITO.AssemblyInfoInputs.cache
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_7_ARREGLOS\TOTITO\obj\Debug\net8.0\TOTITO.AssemblyInfo.cs
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_7_ARREGLOS\TOTITO\obj\Debug\net8.0\TOTITO.csproj.CoreCompileInputs.cache
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_7_ARREGLOS\TOTITO\obj\Debug\net8.0\TOTITO.dll
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_7_ARREGLOS\TOTITO\obj\Debug\net8.0\refint\TOTITO.dll
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_7_ARREGLOS\TOTITO\obj\Debug\net8.0\TOTITO.pdb
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_7_ARREGLOS\TOTITO\obj\Debug\net8.0\TOTITO.genruntimeconfig.cache
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_7_ARREGLOS\TOTITO\obj\Debug\net8.0\ref\TOTITO.dll

@@ -1,0 +1,14 @@
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_7_ARREGLOS\DESCUENTO_COMPRAS\bin\Debug\net8.0\DESCUENTO_COMPRAS.exe
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_7_ARREGLOS\DESCUENTO_COMPRAS\bin\Debug\net8.0\DESCUENTO_COMPRAS.deps.json
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_7_ARREGLOS\DESCUENTO_COMPRAS\bin\Debug\net8.0\DESCUENTO_COMPRAS.runtimeconfig.json
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_7_ARREGLOS\DESCUENTO_COMPRAS\bin\Debug\net8.0\DESCUENTO_COMPRAS.dll
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_7_ARREGLOS\DESCUENTO_COMPRAS\bin\Debug\net8.0\DESCUENTO_COMPRAS.pdb
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_7_ARREGLOS\DESCUENTO_COMPRAS\obj\Debug\net8.0\DESCUENTO_COMPRAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_7_ARREGLOS\DESCUENTO_COMPRAS\obj\Debug\net8.0\DESCUENTO_COMPRAS.AssemblyInfoInputs.cache
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_7_ARREGLOS\DESCUENTO_COMPRAS\obj\Debug\net8.0\DESCUENTO_COMPRAS.AssemblyInfo.cs
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_7_ARREGLOS\DESCUENTO_COMPRAS\obj\Debug\net8.0\DESCUENTO_COMPRAS.csproj.CoreCompileInputs.cache
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_7_ARREGLOS\DESCUENTO_COMPRAS\obj\Debug\net8.0\DESCUENTO_COMPRAS.dll
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_7_ARREGLOS\DESCUENTO_COMPRAS\obj\Debug\net8.0\refint\DESCUENTO_COMPRAS.dll
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_7_ARREGLOS\DESCUENTO_COMPRAS\obj\Debug\net8.0\DESCUENTO_COMPRAS.pdb
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_7_ARREGLOS\DESCUENTO_COMPRAS\obj\Debug\net8.0\DESCUENTO_COMPRAS.genruntimeconfig.cache
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_7_ARREGLOS\DESCUENTO_COMPRAS\obj\Debug\net8.0\ref\DESCUENTO_COMPRAS.dll

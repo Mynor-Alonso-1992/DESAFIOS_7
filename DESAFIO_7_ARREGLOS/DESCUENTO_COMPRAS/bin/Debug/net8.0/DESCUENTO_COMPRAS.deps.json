@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DESCUENTO_COMPRAS/1.0.0": {
+        "runtime": {
+          "DESCUENTO_COMPRAS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DESCUENTO_COMPRAS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

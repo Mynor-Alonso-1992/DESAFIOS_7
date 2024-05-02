@@ -1,0 +1,14 @@
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_7_ARREGLOS\LISTA DE TAREA\bin\Debug\net8.0\LISTA DE TAREA.exe
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_7_ARREGLOS\LISTA DE TAREA\bin\Debug\net8.0\LISTA DE TAREA.deps.json
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_7_ARREGLOS\LISTA DE TAREA\bin\Debug\net8.0\LISTA DE TAREA.runtimeconfig.json
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_7_ARREGLOS\LISTA DE TAREA\bin\Debug\net8.0\LISTA DE TAREA.dll
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_7_ARREGLOS\LISTA DE TAREA\bin\Debug\net8.0\LISTA DE TAREA.pdb
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_7_ARREGLOS\LISTA DE TAREA\obj\Debug\net8.0\LISTA DE TAREA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_7_ARREGLOS\LISTA DE TAREA\obj\Debug\net8.0\LISTA DE TAREA.AssemblyInfoInputs.cache
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_7_ARREGLOS\LISTA DE TAREA\obj\Debug\net8.0\LISTA DE TAREA.AssemblyInfo.cs
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_7_ARREGLOS\LISTA DE TAREA\obj\Debug\net8.0\LISTA DE TAREA.csproj.CoreCompileInputs.cache
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_7_ARREGLOS\LISTA DE TAREA\obj\Debug\net8.0\LISTA DE TAREA.dll
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_7_ARREGLOS\LISTA DE TAREA\obj\Debug\net8.0\refint\LISTA DE TAREA.dll
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_7_ARREGLOS\LISTA DE TAREA\obj\Debug\net8.0\LISTA DE TAREA.pdb
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_7_ARREGLOS\LISTA DE TAREA\obj\Debug\net8.0\LISTA DE TAREA.genruntimeconfig.cache
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_7_ARREGLOS\LISTA DE TAREA\obj\Debug\net8.0\ref\LISTA DE TAREA.dll
